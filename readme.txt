@@ -8,3 +8,10 @@ over0906.
 2branch test.
 0927--2
 conflict test.
+my name is liming,
+hello,
+what’s your name.
+my name is danny.
+I'm yours2.
+test gitHub.
+restudy git.
